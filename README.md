@@ -19,4 +19,4 @@ Este proyecto es un clon de la interfas de usuario de Pinterest creado puramente
 Distribuido bajo la licencia MIT. Consulta 'LICENSE' para obtener más información.
 
 ### Contacto
-Brisa Martinez: [Instagram](https://www.instagram.com/briss.olimar/?next=%2F)
+Brisa Martinez: [Instagram](https://www.instagram.com/briss.olimar/?next=%2F#)
